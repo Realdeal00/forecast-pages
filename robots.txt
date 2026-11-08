@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://realdeal00.github.io/forecast-pages/sitemap.xml
